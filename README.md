@@ -67,5 +67,16 @@ A Jira issue panel app built with Atlassian Forge that displays real-time GitHub
 - Built with Atlassian Forge, React, and GitHub Actions API
 - UI inspired by Atlassian Design System
 
----
+
+
+
 **Made for hackathons and dev teams who want CI/CD at a glance!**
+
+
+## Snap Shot
+
+![issuepannel](https://github.com/user-attachments/assets/2172c211-ddd2-4cbe-ba44-442fe9bded04)[package-lock.json](https://github.com/user-attachments/files/20524165/package-lock.json)
+
+
+
+
